@@ -1,0 +1,44 @@
+.jumbotron {
+    background-image: url(/images/IMG_2423.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(100vh - 25px);
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.jumboCopy {
+    color: black;
+    font-weight: bold;
+    background-color: rgba(196, 196, 196, 0.6);
+    
+    padding: 25px;
+    
+}
+
+.otherHobbies {
+    background-image: url(/images/IMG_0011.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(100vh - 25px);
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cardMargin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+    padding: 50px;
+}
+
+.cardStuff {
+    display: flex;
+    margin: 50px;
+    padding: 0px 30px 30px 30px;
+    justify-content: space-between;
+}

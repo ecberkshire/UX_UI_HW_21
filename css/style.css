@@ -18,16 +18,7 @@
     
 }
 
-.otherHobbies {
-    background-image: url(/images/IMG_0011.jpeg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: calc(100vh - 25px);
-   
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+
 .cardMargin {
     display: flex;
     align-items: center;
